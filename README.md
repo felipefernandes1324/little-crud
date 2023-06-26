@@ -1,2 +1,2 @@
-"# little-crud" 
-"# little-crud" 
+Little crud implementation/training
+did in a hour
