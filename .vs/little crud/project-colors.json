@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1bc3be66-62ee-4b68-9dd3-5b3a9a20f29f": {
+      "ProjectGuid": "1bc3be66-62ee-4b68-9dd3-5b3a9a20f29f",
+      "DisplayName": "little crud",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
